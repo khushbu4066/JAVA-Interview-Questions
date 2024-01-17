@@ -469,7 +469,7 @@ Here are the list of most asked JavaScript Interview Questions
       ```javascript
       var object = {
            name: "Shiva",
-           age: 34
+           age: 23
       };
 
       Object literal property values can be of any data type, including array, function, and nested object.
