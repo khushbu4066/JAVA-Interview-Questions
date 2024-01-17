@@ -468,7 +468,7 @@ Here are the list of most asked JavaScript Interview Questions
 
       ```javascript
       var object = {
-           name: "Sudheer",
+           name: "Shiva",
            age: 34
       };
 
